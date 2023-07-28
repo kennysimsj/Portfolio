@@ -2,7 +2,7 @@
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, work, and self-learning purposes.
 
 - **Email**: kennysimsj@gmail.com
-- **LinkedIn**: [linkedin.com/archd3sai](https://www.linkedin.com/in/kennysim28/)
+- **LinkedIn**: [linkedin.com/kennysim28](https://www.linkedin.com/in/kennysim28/)
 
 
 ## Projects
